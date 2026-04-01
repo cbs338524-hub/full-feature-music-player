@@ -45,21 +45,9 @@ music-player/
 │── images/
 
 ---
+output:
+<img width="463" height="658" alt="image" src="https://github.com/user-attachments/assets/673595fe-a7f8-493a-ac3f-de9463fd7704" />
 
-## ▶ How to Run
-
-1. Download or clone the repository
-2. Open the project folder
-3. Run `index.html` in a browser or Live Server
-4. Use controls to play music
-
----
-
-## 📸 Screenshot
-
-(Add your project screenshot here)
-
----
 
 
 ---
